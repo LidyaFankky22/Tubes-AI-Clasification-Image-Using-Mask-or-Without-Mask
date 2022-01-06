@@ -6,8 +6,8 @@ Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Datase
      * WithMask : 97 images
      * WithoutMask : 97 images
   2. Train :
-     * WithMask : 658 images
-     * WithoutMask : 657 images
+     * WithMask : 690 images
+     * WithoutMask : 686 images
   3. Validation :
      * WithMask : 71 images
      * WithoutMask : 71 images
