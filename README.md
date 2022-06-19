@@ -1,7 +1,7 @@
 # Tubes-AI-Clasification-Image-Using-Mask-or-Without-Mask
 # Tubes AI ~ Face Mask Detection Using Transfer Learning
-## Deskripsi Dataset
-Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Dataset ini didapatkan dari [Github.com](https://github.com/prajnasb/observations/tree/master/experiements/) Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari hampir 1700 gambar. Dengan rincian direktori :
+## About Dataset
+In the preparation of this project using 2 datasets from the same source. This dataset is obtained from [Github.com](https://github.com/prajnasb/observations/tree/master/experiments/) This dataset is used for Face Mask Detection Classification with an image consisting of almost 1700 images. With directory details:
   1. Test :
      * WithMask : 97 images
      * WithoutMask : 97 images
@@ -11,20 +11,20 @@ Dalam penyusunan project ini menggunakan 2 dataset dari sumber yang sama. Datase
   3. Validation :
      * WithMask : 71 images
      * WithoutMask : 71 images
-## Teknik Deep Learning yang digunakan
-* Model menggunakan algoritma CNN (Convolutional Neural Network)
-* Model menggunakan algoritma Transfer Learning VGG16
-* Model dilatih menggunakan Google Colaboratory
-## Jurnal Referensi
-* Jurnal referensi pada projek ini berjudul ["Control The COVID-19 Pandemic: Face Mask 
+## Deep Learning Techniques
+* The model uses the CNN (Convolutional Neural Network) algorithm
+* The model uses the Transfer Learning algorithm VGG16
+* Models trained using Google Collaboratory
+## Reference Journal
+* The reference journal for this project is entitled ["Control The COVID-19 Pandemic: Face Mask
 Detection Using Transfer Learning"](https://www.mendeley.com/catalogue/33180134-8299-34ea-8f45-c008326f90f6/) Oumina A, El Makhfi N, Hamdi M.
 2020 IEEE 2nd International Conference on Electronics, Control, Optimization and Computer Science, ICECOCS 2020 (2020)
-## Cara Pengeksekusian Program
+## Program Execution Method
 * Download file .ipynb
-* Buka di Google Colaboratory
+* Open file in the Google Colaboratory
 
 ## Authors
-Kontributor dalam project kali ini adalah :
+Contributors in this project are:
 1. Ahmad Junjung Sudrajad 2019-405
 2. Lidya Fankky Oktavia Putri 2019-448
 
